@@ -19,12 +19,12 @@ The project demonstrates six design patterns working together in one application
 
 | Team member | Pattern | Purpose |
 |-------------|---------|---------|
-| Dias | Builder | Construct delivery orders step by step |
-| Dias | Decorator | Add optional services and their costs |
-| Amir | Factory Method | Create different vehicle types through concrete factories |
-| Amir | Strategy | Select the fastest, shortest, or cheapest route |
-| Ayau | State | Control delivery actions according to the current status |
-| Ayau | Observer | Notify subscribers when the delivery status changes |
+| Dias        | Builder | Construct delivery orders step by step |
+| Dias        | Decorator | Add optional services and their costs |
+| Amir        | Factory Method | Create different vehicle types through concrete factories |
+| Amir        | Strategy | Select the fastest, shortest, or cheapest route |
+| Ayaulym     | State | Control delivery actions according to the current status |
+| Ayaulym     | Observer | Notify subscribers when the delivery status changes |
 
 ## Delivery Workflow
 
