@@ -1,4 +1,7 @@
 package logistics.decorator;
 
-public class DeliveryService {
+public interface DeliveryService {
+    String getDescription();
+
+    double getCost();
 }
