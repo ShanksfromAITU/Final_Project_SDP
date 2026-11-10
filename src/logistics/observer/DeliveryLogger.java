@@ -1,4 +1,4 @@
 package logistics.observer;
 
-public class Oyau {
+public class DeliveryLogger {
 }

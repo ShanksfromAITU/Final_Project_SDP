@@ -1,4 +1,4 @@
 package logistics.decorator;
 
-public class Disa2 {
+public class BasicDelivery {
 }
