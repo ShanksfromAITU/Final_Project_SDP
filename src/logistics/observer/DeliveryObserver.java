@@ -1,4 +1,5 @@
 package logistics.observer;
 
-public class DeliveryObserver {
+public interface DeliveryObserver {
+    void update(String message);
 }
